@@ -1,0 +1,27 @@
+_repo: Gekken_27994
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Looy, Jacobus van
+    alias: Van Looy, Jacobus
+    birthdate: 1855
+    deathdate: 1930
+    gutenberg_agent_id: '33064'
+    url: http://www.gutenberg.org/2009/agents/33064
+description: ''
+gutenberg_issued: '2009-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27994'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dutch literature'
+- !lcc 'PT'
+title: Gekken
+url: http://www.gutenberg.org/ebooks/27994
